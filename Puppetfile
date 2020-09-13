@@ -15,3 +15,11 @@ forge 'https://forge.puppet.com'
 mod 'apache',
   git:    'https://github.com/anudeepseri/apache.git',
   branch: 'dev'
+
+mod 'hostnames',
+  git:    'https://github.com/anudeepseri/hostnames.git',
+  branch: 'production'
+
+mod 'base',
+  git:    'https://github.com/anudeepseri/base.git',
+  branch: 'production'
